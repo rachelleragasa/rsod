@@ -3,8 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `rsod`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: "rsod",
+    siteUrl: "https://www.yourdomain.tld",
   },
-  plugins: ["gatsby-plugin-styled-components"]
+  plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-typescript"],
 };
